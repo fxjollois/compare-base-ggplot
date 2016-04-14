@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# compare-base-ggplot\n\nApplication web de comparaison de code pour produire les principaux graphiques avec le package `graphics` (de base dans R) et le package `ggplot2`.\n\n",
+    "created" : 1460642139155.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2472250849",
+    "id" : "3871EACE",
+    "lastKnownWriteTime" : 1460642206,
+    "last_content_update" : 1460642206648,
+    "path" : "~/Sites/compare-base-ggplot/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
